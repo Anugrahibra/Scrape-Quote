@@ -3,3 +3,4 @@ beautifulsoup4
 simplejson
 pandas
 openpyxl
+flask
